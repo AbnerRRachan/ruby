@@ -13,7 +13,6 @@ puts "\n"
 user = User.new
 user.add('João')
 puts "\n"
-puts "\n"
+
 user = User.new
 user.add('Mario')
-puts "\n"
